@@ -19,6 +19,6 @@
 - HTML and CSS Certification Course for Beginners
 
 ## Software Skills
-- Blender
+- Power BI
 - Android Studio
 - Adobe Photoshop
