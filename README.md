@@ -14,9 +14,8 @@
 - Java  (Basic)
 
 ## Certifications
-- Adobe Photoshop
-- Qt 6 Core Beginners with C++
 - HTML and CSS Certification Course for Beginners
+- Qt 6 Core Beginners with C++ 
 
 ## Software Skills
 - Power BI
