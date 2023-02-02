@@ -8,6 +8,12 @@
 &nbsp;Github   - https://github.com/vengatesh2002<br>
 <img src="https://github-readme-stats.vercel.app/api?username=vengatesh2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+## Achievements
+- Problem Solver - Silver Badge | Codechef
+- Daily Streak - Silver Badge | CodeChef
+- Ranked Under Top 50 In CATEHIZATION | National Level Topical Quiz Competition 
+- Earned Swags | RESKILL HACKATHON - SPARK AR
+
 ## Core Competencies
 - C     (Intermediate)
 - C++   (Intermediate)
