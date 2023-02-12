@@ -22,9 +22,8 @@
 
 ## Certifications
 - HTML and CSS Certification Course for Beginners
-- Qt 6 Core Beginners with C++ 
+- Adobe Photoshop
 
 ## Software Skills
 - Power BI
 - Android Studio
-- Adobe Photoshop
