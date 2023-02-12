@@ -6,6 +6,7 @@
 &nbsp;Official - vengateshhariprabu.it20@bitsathy.ac.in<br>
 &nbsp;LinkedIn - https://www.linkedin.com/in/vengatesh-hari-prabu-j-986b63200/<br>
 &nbsp;Github   - https://github.com/vengatesh2002<br>
+&nbsp;Codechef - https://www.codechef.com/users/vengatesh_18<br>
 <img src="https://github-readme-stats.vercel.app/api?username=vengatesh2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## Achievements
