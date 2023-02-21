@@ -10,8 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vengatesh2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## Achievements
+- Daily Streak - Gold Badge | CodeChef
 - Problem Solver - Silver Badge | Codechef
-- Daily Streak - Silver Badge | CodeChef
 - Ranked Under Top 50 In CATEHIZATION | National Level Topical Quiz Competition 
 - Earned Swags | RESKILL HACKATHON - SPARK AR
 
@@ -19,6 +19,8 @@
 - C     (Intermediate)
 - C++   (Intermediate)
 - Java  (Basic)
+- HTML | CSS | JS
+- NODE.JS | REACT | PHP
 
 ## Certifications
 - HTML and CSS Certification Course for Beginners
@@ -27,3 +29,4 @@
 ## Software Skills
 - Power BI
 - Android Studio
+
