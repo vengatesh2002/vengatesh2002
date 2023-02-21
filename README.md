@@ -19,8 +19,8 @@
 - C     (Intermediate)
 - C++   (Intermediate)
 - Java  (Basic)
-- HTML | CSS | JS
-- NODE.JS | REACT | PHP
+- HTML | CSS | JS (Basic)
+- NODE.JS | REACT | PHP   (Intermediate)
 
 ## Certifications
 - HTML and CSS Certification Course for Beginners
