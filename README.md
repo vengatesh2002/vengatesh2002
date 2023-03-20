@@ -12,15 +12,13 @@
 ## Achievements
 - Daily Streak - Gold Badge | CodeChef
 - Problem Solver - Silver Badge | Codechef
-- Ranked Under Top 50 In CATEHIZATION | National Level Topical Quiz Competition 
-- Earned Swags | RESKILL HACKATHON - SPARK AR
+- 100+ Problems solved | GeekForGeeks
+- Ranked Under Top 50 | Catechization '21
 
 ## Core Competencies
-- C     (Intermediate)
 - C++   (Intermediate)
 - Java  (Basic)
 - HTML | CSS | JS (Basic)
-- NODE.JS | REACT | PHP   (Intermediate)
 
 ## Certifications
 - HTML and CSS Certification Course for Beginners
