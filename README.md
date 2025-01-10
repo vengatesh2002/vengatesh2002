@@ -16,15 +16,14 @@
 - Ranked Under Top 50 | Catechization '21
 
 ## Core Competencies
-- C++   (Intermediate)
-- Java  (Basic)
-- HTML | CSS | JS (Basic)
+- C++   
+- Core Java  
+- HTML | CSS | Javascript | React.js
 
 ## Certifications
 - HTML and CSS Certification Course for Beginners
-- Adobe Photoshop
+- Modern Web Development / My SQL, GitHub
+- Javascript Course for Beginners
 
-## Software Skills
-- Power BI
-- Android Studio
+
 
